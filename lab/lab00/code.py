@@ -12,6 +12,7 @@ def fizzbuzz(num):
   if num % 5 == 0: # edit this line
     print(f"{num}: buzz")
 
+
 for i in range(1, 20):
   fizzbuzz(i)
 
